@@ -5,20 +5,48 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01进程", "01进程\01进�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02打开文件练习", "02打开文件练习\02打开文件练习.csproj", "{E1F618FE-C0FD-4CC0-8312-844473130CA6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03面向对象复习", "03面向对象复习\03面向对象复习.csproj", "{6D94F3B3-9BB5-4740-909A-050D20DC59C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04三个关键字", "04三个关键字\04三个关键字.csproj", "{4807EA74-4417-4123-90F3-F52996A02895}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
 		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74794858-4A23-4711-8FF1-090E1B938982}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74794858-4A23-4711-8FF1-090E1B938982}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74794858-4A23-4711-8FF1-090E1B938982}.Debug|x86.ActiveCfg = Debug|x86
 		{74794858-4A23-4711-8FF1-090E1B938982}.Debug|x86.Build.0 = Debug|x86
+		{74794858-4A23-4711-8FF1-090E1B938982}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74794858-4A23-4711-8FF1-090E1B938982}.Release|Any CPU.Build.0 = Release|Any CPU
 		{74794858-4A23-4711-8FF1-090E1B938982}.Release|x86.ActiveCfg = Release|x86
 		{74794858-4A23-4711-8FF1-090E1B938982}.Release|x86.Build.0 = Release|x86
+		{E1F618FE-C0FD-4CC0-8312-844473130CA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1F618FE-C0FD-4CC0-8312-844473130CA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1F618FE-C0FD-4CC0-8312-844473130CA6}.Debug|x86.ActiveCfg = Debug|x86
 		{E1F618FE-C0FD-4CC0-8312-844473130CA6}.Debug|x86.Build.0 = Debug|x86
+		{E1F618FE-C0FD-4CC0-8312-844473130CA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1F618FE-C0FD-4CC0-8312-844473130CA6}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E1F618FE-C0FD-4CC0-8312-844473130CA6}.Release|x86.ActiveCfg = Release|x86
 		{E1F618FE-C0FD-4CC0-8312-844473130CA6}.Release|x86.Build.0 = Release|x86
+		{6D94F3B3-9BB5-4740-909A-050D20DC59C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D94F3B3-9BB5-4740-909A-050D20DC59C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D94F3B3-9BB5-4740-909A-050D20DC59C9}.Debug|x86.ActiveCfg = Debug|x86
+		{6D94F3B3-9BB5-4740-909A-050D20DC59C9}.Debug|x86.Build.0 = Debug|x86
+		{6D94F3B3-9BB5-4740-909A-050D20DC59C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D94F3B3-9BB5-4740-909A-050D20DC59C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D94F3B3-9BB5-4740-909A-050D20DC59C9}.Release|x86.ActiveCfg = Release|x86
+		{6D94F3B3-9BB5-4740-909A-050D20DC59C9}.Release|x86.Build.0 = Release|x86
+		{4807EA74-4417-4123-90F3-F52996A02895}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{4807EA74-4417-4123-90F3-F52996A02895}.Debug|x86.ActiveCfg = Debug|x86
+		{4807EA74-4417-4123-90F3-F52996A02895}.Debug|x86.Build.0 = Debug|x86
+		{4807EA74-4417-4123-90F3-F52996A02895}.Release|Any CPU.ActiveCfg = Release|x86
+		{4807EA74-4417-4123-90F3-F52996A02895}.Release|x86.ActiveCfg = Release|x86
+		{4807EA74-4417-4123-90F3-F52996A02895}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
