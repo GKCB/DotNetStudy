@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03面向对象复习", "03�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04三个关键字", "04三个关键字\04三个关键字.csproj", "{4807EA74-4417-4123-90F3-F52996A02895}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05动物类继承", "05动物类继承\05动物类继承.csproj", "{64A3E980-BF88-4E9C-AE04-38E3C32E44F2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +49,12 @@ Global
 		{4807EA74-4417-4123-90F3-F52996A02895}.Release|Any CPU.ActiveCfg = Release|x86
 		{4807EA74-4417-4123-90F3-F52996A02895}.Release|x86.ActiveCfg = Release|x86
 		{4807EA74-4417-4123-90F3-F52996A02895}.Release|x86.Build.0 = Release|x86
+		{64A3E980-BF88-4E9C-AE04-38E3C32E44F2}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{64A3E980-BF88-4E9C-AE04-38E3C32E44F2}.Debug|x86.ActiveCfg = Debug|x86
+		{64A3E980-BF88-4E9C-AE04-38E3C32E44F2}.Debug|x86.Build.0 = Debug|x86
+		{64A3E980-BF88-4E9C-AE04-38E3C32E44F2}.Release|Any CPU.ActiveCfg = Release|x86
+		{64A3E980-BF88-4E9C-AE04-38E3C32E44F2}.Release|x86.ActiveCfg = Release|x86
+		{64A3E980-BF88-4E9C-AE04-38E3C32E44F2}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
