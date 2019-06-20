@@ -5,11 +5,11 @@
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>b9b89980-6ef5-45c1-b08f-3aedcf82b9a5</ProjectGuid>
+    <ProjectGuid>{122DA481-D1CD-462B-815B-7052026B57C5}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>_06里氏转换</RootNamespace>
-    <AssemblyName>_06里氏转换</AssemblyName>
+    <AssemblyName>06里氏转换</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>
