@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15接口登记案例", "15�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16剪刀石头布", "16剪刀石头布\16剪刀石头布.csproj", "{9B8ABA13-6C3D-49AA-8187-31E40E060383}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18索引器的使用", "18索引器的使用\18索引器的使用.csproj", "{BD05893B-6815-4276-95AB-6CC881FDD1EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -143,6 +145,12 @@ Global
 		{9B8ABA13-6C3D-49AA-8187-31E40E060383}.Release|Any CPU.ActiveCfg = Release|x86
 		{9B8ABA13-6C3D-49AA-8187-31E40E060383}.Release|x86.ActiveCfg = Release|x86
 		{9B8ABA13-6C3D-49AA-8187-31E40E060383}.Release|x86.Build.0 = Release|x86
+		{BD05893B-6815-4276-95AB-6CC881FDD1EF}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{BD05893B-6815-4276-95AB-6CC881FDD1EF}.Debug|x86.ActiveCfg = Debug|x86
+		{BD05893B-6815-4276-95AB-6CC881FDD1EF}.Debug|x86.Build.0 = Debug|x86
+		{BD05893B-6815-4276-95AB-6CC881FDD1EF}.Release|Any CPU.ActiveCfg = Release|x86
+		{BD05893B-6815-4276-95AB-6CC881FDD1EF}.Release|x86.ActiveCfg = Release|x86
+		{BD05893B-6815-4276-95AB-6CC881FDD1EF}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
