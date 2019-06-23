@@ -5,11 +5,11 @@
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>cf9ba1fb-2f0d-4bcb-b3c0-6a2fc29c637a</ProjectGuid>
+    <ProjectGuid>{B86D2DC6-D27C-43BB-9E88-849F1F54E3CF}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>_17索引器的使用</RootNamespace>
-    <AssemblyName>_17索引器的使用</AssemblyName>
+    <AssemblyName>17索引器的使用</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>
