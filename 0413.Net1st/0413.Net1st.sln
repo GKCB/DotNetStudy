@@ -35,6 +35,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16剪刀石头布", "16剪�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18索引器的使用", "18索引器的使用\18索引器的使用.csproj", "{BD05893B-6815-4276-95AB-6CC881FDD1EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17索引器的使用", "17索引器的使用\17索引器的使用.csproj", "{B86D2DC6-D27C-43BB-9E88-849F1F54E3CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19访问修饰符", "19访问修饰符\19访问修饰符.csproj", "{5B40518F-BFCE-4F80-AFFE-9DCC3D1B60C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -151,6 +155,18 @@ Global
 		{BD05893B-6815-4276-95AB-6CC881FDD1EF}.Release|Any CPU.ActiveCfg = Release|x86
 		{BD05893B-6815-4276-95AB-6CC881FDD1EF}.Release|x86.ActiveCfg = Release|x86
 		{BD05893B-6815-4276-95AB-6CC881FDD1EF}.Release|x86.Build.0 = Release|x86
+		{B86D2DC6-D27C-43BB-9E88-849F1F54E3CF}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{B86D2DC6-D27C-43BB-9E88-849F1F54E3CF}.Debug|x86.ActiveCfg = Debug|x86
+		{B86D2DC6-D27C-43BB-9E88-849F1F54E3CF}.Debug|x86.Build.0 = Debug|x86
+		{B86D2DC6-D27C-43BB-9E88-849F1F54E3CF}.Release|Any CPU.ActiveCfg = Release|x86
+		{B86D2DC6-D27C-43BB-9E88-849F1F54E3CF}.Release|x86.ActiveCfg = Release|x86
+		{B86D2DC6-D27C-43BB-9E88-849F1F54E3CF}.Release|x86.Build.0 = Release|x86
+		{5B40518F-BFCE-4F80-AFFE-9DCC3D1B60C3}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{5B40518F-BFCE-4F80-AFFE-9DCC3D1B60C3}.Debug|x86.ActiveCfg = Debug|x86
+		{5B40518F-BFCE-4F80-AFFE-9DCC3D1B60C3}.Debug|x86.Build.0 = Debug|x86
+		{5B40518F-BFCE-4F80-AFFE-9DCC3D1B60C3}.Release|Any CPU.ActiveCfg = Release|x86
+		{5B40518F-BFCE-4F80-AFFE-9DCC3D1B60C3}.Release|x86.ActiveCfg = Release|x86
+		{5B40518F-BFCE-4F80-AFFE-9DCC3D1B60C3}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
