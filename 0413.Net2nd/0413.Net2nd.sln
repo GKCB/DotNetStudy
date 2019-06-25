@@ -3,6 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01复习", "01复习\01复习.csproj", "{F03335D1-CBAC-4A0B-8EE3-C9A5C25C942E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02添加引用和导入命名空间", "02添加引用和导入命名空间\02添加引用和导入命名空间.csproj", "{DD371625-74C5-4B4B-87E9-EB94E991F69A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03静态和非静态", "03静态和非静态\03静态和非静态.csproj", "{E8BAD4AB-6C67-40BA-AEB5-DFA52ED906FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04单例设计模式", "04单例设计模式\04单例设计模式.csproj", "{692672EC-19EF-431C-B4E1-F090F4EDD2A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,6 +19,18 @@ Global
 		{F03335D1-CBAC-4A0B-8EE3-C9A5C25C942E}.Debug|x86.Build.0 = Debug|x86
 		{F03335D1-CBAC-4A0B-8EE3-C9A5C25C942E}.Release|x86.ActiveCfg = Release|x86
 		{F03335D1-CBAC-4A0B-8EE3-C9A5C25C942E}.Release|x86.Build.0 = Release|x86
+		{DD371625-74C5-4B4B-87E9-EB94E991F69A}.Debug|x86.ActiveCfg = Debug|x86
+		{DD371625-74C5-4B4B-87E9-EB94E991F69A}.Debug|x86.Build.0 = Debug|x86
+		{DD371625-74C5-4B4B-87E9-EB94E991F69A}.Release|x86.ActiveCfg = Release|x86
+		{DD371625-74C5-4B4B-87E9-EB94E991F69A}.Release|x86.Build.0 = Release|x86
+		{E8BAD4AB-6C67-40BA-AEB5-DFA52ED906FD}.Debug|x86.ActiveCfg = Debug|x86
+		{E8BAD4AB-6C67-40BA-AEB5-DFA52ED906FD}.Debug|x86.Build.0 = Debug|x86
+		{E8BAD4AB-6C67-40BA-AEB5-DFA52ED906FD}.Release|x86.ActiveCfg = Release|x86
+		{E8BAD4AB-6C67-40BA-AEB5-DFA52ED906FD}.Release|x86.Build.0 = Release|x86
+		{692672EC-19EF-431C-B4E1-F090F4EDD2A1}.Debug|x86.ActiveCfg = Debug|x86
+		{692672EC-19EF-431C-B4E1-F090F4EDD2A1}.Debug|x86.Build.0 = Debug|x86
+		{692672EC-19EF-431C-B4E1-F090F4EDD2A1}.Release|x86.ActiveCfg = Release|x86
+		{692672EC-19EF-431C-B4E1-F090F4EDD2A1}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
