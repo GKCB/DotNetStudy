@@ -26,7 +26,7 @@ namespace _07值类型和引用类型
 
             Person zsPerson = new Person();
             zsPerson.Name = "张三";
-            Test(zsPerson);
+            Test(zsPerson); //实际上还是传递了地址
             Console.WriteLine(zsPerson.Name);
             Console.ReadKey();
 
@@ -34,10 +34,10 @@ namespace _07值类型和引用类型
 
         static void Test(Person p)
         {
-            p.Name = "王五";
+            p.Name = "王五"; //原来的“张三”地址被"王五"地址覆盖
             Person p2 = new Person();
             p2.Name = "田七";
-            p = p2;
+            p = p2;         //“王五”地址被“田七”覆盖
         }
 
      
