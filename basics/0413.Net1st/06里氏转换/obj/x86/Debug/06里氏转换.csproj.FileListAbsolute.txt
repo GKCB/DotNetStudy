@@ -1,0 +1,4 @@
+F:\oldboy\aspcode\DotNetStudy\0413.Net1st\06里氏转换\bin\Debug\06里氏转换.exe
+F:\oldboy\aspcode\DotNetStudy\0413.Net1st\06里氏转换\bin\Debug\06里氏转换.pdb
+F:\oldboy\aspcode\DotNetStudy\0413.Net1st\06里氏转换\obj\x86\Debug\06里氏转换.exe
+F:\oldboy\aspcode\DotNetStudy\0413.Net1st\06里氏转换\obj\x86\Debug\06里氏转换.pdb
