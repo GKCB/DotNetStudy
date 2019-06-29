@@ -1,0 +1,4 @@
+F:\oldboy\aspcode\DotNetStudy\0413.Net2nd\08字符串的学习\bin\Debug\08字符串的学习.exe
+F:\oldboy\aspcode\DotNetStudy\0413.Net2nd\08字符串的学习\bin\Debug\08字符串的学习.pdb
+F:\oldboy\aspcode\DotNetStudy\0413.Net2nd\08字符串的学习\obj\x86\Debug\08字符串的学习.exe
+F:\oldboy\aspcode\DotNetStudy\0413.Net2nd\08字符串的学习\obj\x86\Debug\08字符串的学习.pdb

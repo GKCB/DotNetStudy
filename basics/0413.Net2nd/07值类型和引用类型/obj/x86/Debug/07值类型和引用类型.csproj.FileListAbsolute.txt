@@ -1,0 +1,4 @@
+F:\oldboy\aspcode\DotNetStudy\0413.Net2nd\07值类型和引用类型\bin\Debug\07值类型和引用类型.exe
+F:\oldboy\aspcode\DotNetStudy\0413.Net2nd\07值类型和引用类型\bin\Debug\07值类型和引用类型.pdb
+F:\oldboy\aspcode\DotNetStudy\0413.Net2nd\07值类型和引用类型\obj\x86\Debug\07值类型和引用类型.exe
+F:\oldboy\aspcode\DotNetStudy\0413.Net2nd\07值类型和引用类型\obj\x86\Debug\07值类型和引用类型.pdb
