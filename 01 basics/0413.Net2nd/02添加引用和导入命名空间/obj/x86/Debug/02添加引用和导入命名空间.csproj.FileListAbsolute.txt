@@ -1,7 +1,0 @@
-F:\oldboy\aspcode\DotNetStudy\0413.Net2nd\02添加引用和导入命名空间\bin\Debug\02添加引用和导入命名空间.exe
-F:\oldboy\aspcode\DotNetStudy\0413.Net2nd\02添加引用和导入命名空间\bin\Debug\02添加引用和导入命名空间.pdb
-F:\oldboy\aspcode\DotNetStudy\0413.Net2nd\02添加引用和导入命名空间\bin\Debug\01复习.exe
-F:\oldboy\aspcode\DotNetStudy\0413.Net2nd\02添加引用和导入命名空间\bin\Debug\01复习.pdb
-F:\oldboy\aspcode\DotNetStudy\0413.Net2nd\02添加引用和导入命名空间\obj\x86\Debug\02添加引用和导入命名空间.csprojResolveAssemblyReference.cache
-F:\oldboy\aspcode\DotNetStudy\0413.Net2nd\02添加引用和导入命名空间\obj\x86\Debug\02添加引用和导入命名空间.exe
-F:\oldboy\aspcode\DotNetStudy\0413.Net2nd\02添加引用和导入命名空间\obj\x86\Debug\02添加引用和导入命名空间.pdb

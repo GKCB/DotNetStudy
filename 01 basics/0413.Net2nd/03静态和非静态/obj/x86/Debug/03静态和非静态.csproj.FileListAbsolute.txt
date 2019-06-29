@@ -1,4 +1,0 @@
-F:\oldboy\aspcode\DotNetStudy\0413.Net2nd\03静态和非静态\bin\Debug\03静态和非静态.exe
-F:\oldboy\aspcode\DotNetStudy\0413.Net2nd\03静态和非静态\bin\Debug\03静态和非静态.pdb
-F:\oldboy\aspcode\DotNetStudy\0413.Net2nd\03静态和非静态\obj\x86\Debug\03静态和非静态.exe
-F:\oldboy\aspcode\DotNetStudy\0413.Net2nd\03静态和非静态\obj\x86\Debug\03静态和非静态.pdb

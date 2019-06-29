@@ -1,8 +1,0 @@
-F:\oldboy\aspcode\DotNetStudy\0413.Net2nd\04单例设计模式\bin\Debug\04单例设计模式.exe
-F:\oldboy\aspcode\DotNetStudy\0413.Net2nd\04单例设计模式\bin\Debug\04单例设计模式.pdb
-F:\oldboy\aspcode\DotNetStudy\0413.Net2nd\04单例设计模式\obj\x86\Debug\_04单例设计模式.Form1.resources
-F:\oldboy\aspcode\DotNetStudy\0413.Net2nd\04单例设计模式\obj\x86\Debug\_04单例设计模式.Form2.resources
-F:\oldboy\aspcode\DotNetStudy\0413.Net2nd\04单例设计模式\obj\x86\Debug\_04单例设计模式.Properties.Resources.resources
-F:\oldboy\aspcode\DotNetStudy\0413.Net2nd\04单例设计模式\obj\x86\Debug\04单例设计模式.csproj.GenerateResource.Cache
-F:\oldboy\aspcode\DotNetStudy\0413.Net2nd\04单例设计模式\obj\x86\Debug\04单例设计模式.exe
-F:\oldboy\aspcode\DotNetStudy\0413.Net2nd\04单例设计模式\obj\x86\Debug\04单例设计模式.pdb
