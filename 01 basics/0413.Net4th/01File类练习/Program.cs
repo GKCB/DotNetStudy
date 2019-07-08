@@ -17,7 +17,8 @@ namespace _01File类练习
             
             for (int i = 0; i < contents.Length; i++)
             {
-                string[] temp = contents[i].Split(new char[]{'\t'},StringSplitOptions.RemoveEmptyEntries);
+                string[] temp = contents[i].Split(new char[]{'\t'},
+                    StringSplitOptions.RemoveEmptyEntries);
                 contents[i] = temp[0] + '\t' + int.Parse(temp[1])*2;
             } 
             File.WriteAllLines(path,contents,Encoding.Default);
