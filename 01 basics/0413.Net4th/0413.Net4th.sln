@@ -3,6 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01File类练习", "01File类练习\01File类练习.csproj", "{FA43D6EB-EE7E-4BC2-8E3F-989E62BB6764}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02Directory", "02Directory\02Directory.csproj", "{6914770C-1818-4A75-A9C9-16E26CDC0F6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03TreeView的使用", "03TreeView的使用\03TreeView的使用.csproj", "{4F1E1498-53D9-453B-A6DF-B40DC2189785}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04资料管理器", "04资料管理器\04资料管理器.csproj", "{EF84D7E7-B0A2-4E33-AABE-66373B67F7AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,6 +19,18 @@ Global
 		{FA43D6EB-EE7E-4BC2-8E3F-989E62BB6764}.Debug|x86.Build.0 = Debug|x86
 		{FA43D6EB-EE7E-4BC2-8E3F-989E62BB6764}.Release|x86.ActiveCfg = Release|x86
 		{FA43D6EB-EE7E-4BC2-8E3F-989E62BB6764}.Release|x86.Build.0 = Release|x86
+		{6914770C-1818-4A75-A9C9-16E26CDC0F6F}.Debug|x86.ActiveCfg = Debug|x86
+		{6914770C-1818-4A75-A9C9-16E26CDC0F6F}.Debug|x86.Build.0 = Debug|x86
+		{6914770C-1818-4A75-A9C9-16E26CDC0F6F}.Release|x86.ActiveCfg = Release|x86
+		{6914770C-1818-4A75-A9C9-16E26CDC0F6F}.Release|x86.Build.0 = Release|x86
+		{4F1E1498-53D9-453B-A6DF-B40DC2189785}.Debug|x86.ActiveCfg = Debug|x86
+		{4F1E1498-53D9-453B-A6DF-B40DC2189785}.Debug|x86.Build.0 = Debug|x86
+		{4F1E1498-53D9-453B-A6DF-B40DC2189785}.Release|x86.ActiveCfg = Release|x86
+		{4F1E1498-53D9-453B-A6DF-B40DC2189785}.Release|x86.Build.0 = Release|x86
+		{EF84D7E7-B0A2-4E33-AABE-66373B67F7AA}.Debug|x86.ActiveCfg = Debug|x86
+		{EF84D7E7-B0A2-4E33-AABE-66373B67F7AA}.Debug|x86.Build.0 = Debug|x86
+		{EF84D7E7-B0A2-4E33-AABE-66373B67F7AA}.Release|x86.ActiveCfg = Release|x86
+		{EF84D7E7-B0A2-4E33-AABE-66373B67F7AA}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
