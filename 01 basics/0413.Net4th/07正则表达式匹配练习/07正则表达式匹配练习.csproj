@@ -5,11 +5,11 @@
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>50a8535a-4afd-4826-bd37-662c1718dc79</ProjectGuid>
+    <ProjectGuid>{AABA6F16-1711-4B95-A336-A8C5487946EB}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>_07正则表达式匹配练习</RootNamespace>
-    <AssemblyName>_07正则表达式匹配练习</AssemblyName>
+    <AssemblyName>07正则表达式匹配练习</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>
