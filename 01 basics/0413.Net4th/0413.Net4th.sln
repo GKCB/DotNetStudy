@@ -9,6 +9,18 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03TreeView的使用", "03Tr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04资料管理器", "04资料管理器\04资料管理器.csproj", "{EF84D7E7-B0A2-4E33-AABE-66373B67F7AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05方法的递归", "05方法的递归\05方法的递归.csproj", "{C8ADA30A-8DF4-4462-8340-EE57ABC2E689}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06FileStream文件流的操作", "06FileStream文件流的操作\06FileStream文件流的操作.csproj", "{478E6F6E-0BF6-433A-9662-9135993501E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "复制文件", "复制文件\复制文件.csproj", "{F3D9A0A5-550A-4FDD-8925-C22E967FEA53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07正则表达式匹配练习", "07正则表达式匹配练习\07正则表达式匹配练习.csproj", "{AABA6F16-1711-4B95-A336-A8C5487946EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08正则表达式练习", "08正则表达式练习\08正则表达式练习.csproj", "{802320C4-6628-4FC8-B340-E1CD6283455D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09提取页面的所有邮箱", "09提取页面的所有邮箱\09提取页面的所有邮箱.csproj", "{ECB5ACDA-49FE-4204-BFAE-FCEDB148283C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -31,6 +43,30 @@ Global
 		{EF84D7E7-B0A2-4E33-AABE-66373B67F7AA}.Debug|x86.Build.0 = Debug|x86
 		{EF84D7E7-B0A2-4E33-AABE-66373B67F7AA}.Release|x86.ActiveCfg = Release|x86
 		{EF84D7E7-B0A2-4E33-AABE-66373B67F7AA}.Release|x86.Build.0 = Release|x86
+		{C8ADA30A-8DF4-4462-8340-EE57ABC2E689}.Debug|x86.ActiveCfg = Debug|x86
+		{C8ADA30A-8DF4-4462-8340-EE57ABC2E689}.Debug|x86.Build.0 = Debug|x86
+		{C8ADA30A-8DF4-4462-8340-EE57ABC2E689}.Release|x86.ActiveCfg = Release|x86
+		{C8ADA30A-8DF4-4462-8340-EE57ABC2E689}.Release|x86.Build.0 = Release|x86
+		{478E6F6E-0BF6-433A-9662-9135993501E6}.Debug|x86.ActiveCfg = Debug|x86
+		{478E6F6E-0BF6-433A-9662-9135993501E6}.Debug|x86.Build.0 = Debug|x86
+		{478E6F6E-0BF6-433A-9662-9135993501E6}.Release|x86.ActiveCfg = Release|x86
+		{478E6F6E-0BF6-433A-9662-9135993501E6}.Release|x86.Build.0 = Release|x86
+		{F3D9A0A5-550A-4FDD-8925-C22E967FEA53}.Debug|x86.ActiveCfg = Debug|x86
+		{F3D9A0A5-550A-4FDD-8925-C22E967FEA53}.Debug|x86.Build.0 = Debug|x86
+		{F3D9A0A5-550A-4FDD-8925-C22E967FEA53}.Release|x86.ActiveCfg = Release|x86
+		{F3D9A0A5-550A-4FDD-8925-C22E967FEA53}.Release|x86.Build.0 = Release|x86
+		{AABA6F16-1711-4B95-A336-A8C5487946EB}.Debug|x86.ActiveCfg = Debug|x86
+		{AABA6F16-1711-4B95-A336-A8C5487946EB}.Debug|x86.Build.0 = Debug|x86
+		{AABA6F16-1711-4B95-A336-A8C5487946EB}.Release|x86.ActiveCfg = Release|x86
+		{AABA6F16-1711-4B95-A336-A8C5487946EB}.Release|x86.Build.0 = Release|x86
+		{802320C4-6628-4FC8-B340-E1CD6283455D}.Debug|x86.ActiveCfg = Debug|x86
+		{802320C4-6628-4FC8-B340-E1CD6283455D}.Debug|x86.Build.0 = Debug|x86
+		{802320C4-6628-4FC8-B340-E1CD6283455D}.Release|x86.ActiveCfg = Release|x86
+		{802320C4-6628-4FC8-B340-E1CD6283455D}.Release|x86.Build.0 = Release|x86
+		{ECB5ACDA-49FE-4204-BFAE-FCEDB148283C}.Debug|x86.ActiveCfg = Debug|x86
+		{ECB5ACDA-49FE-4204-BFAE-FCEDB148283C}.Debug|x86.Build.0 = Debug|x86
+		{ECB5ACDA-49FE-4204-BFAE-FCEDB148283C}.Release|x86.ActiveCfg = Release|x86
+		{ECB5ACDA-49FE-4204-BFAE-FCEDB148283C}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
