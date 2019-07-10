@@ -5,11 +5,11 @@
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>3e4f0633-a0cc-4a63-ad6d-6e8d8b4d8a5e</ProjectGuid>
+    <ProjectGuid>{802320C4-6628-4FC8-B340-E1CD6283455D}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>_08正则表达式练习</RootNamespace>
-    <AssemblyName>_08正则表达式练习</AssemblyName>
+    <AssemblyName>08正则表达式练习</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>
