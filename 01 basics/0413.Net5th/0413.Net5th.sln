@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02获得页面中所有的�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03写入一个XML文件", "03写入一个XML文件\03写入一个XML文件.csproj", "{D7F1F8DB-AC69-40A0-B025-0FA2D5E33338}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04添加带属性的XML文档", "04添加带属性的XML文档\04添加带属性的XML文档.csproj", "{E4E5833D-C9B2-4A11-84BE-8951E0AF03B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05文档对象模型", "05文档对象模型\05文档对象模型.csproj", "{7926C176-09ED-4F20-B813-3B140EEBA75B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -25,6 +29,14 @@ Global
 		{D7F1F8DB-AC69-40A0-B025-0FA2D5E33338}.Debug|x86.Build.0 = Debug|x86
 		{D7F1F8DB-AC69-40A0-B025-0FA2D5E33338}.Release|x86.ActiveCfg = Release|x86
 		{D7F1F8DB-AC69-40A0-B025-0FA2D5E33338}.Release|x86.Build.0 = Release|x86
+		{E4E5833D-C9B2-4A11-84BE-8951E0AF03B3}.Debug|x86.ActiveCfg = Debug|x86
+		{E4E5833D-C9B2-4A11-84BE-8951E0AF03B3}.Debug|x86.Build.0 = Debug|x86
+		{E4E5833D-C9B2-4A11-84BE-8951E0AF03B3}.Release|x86.ActiveCfg = Release|x86
+		{E4E5833D-C9B2-4A11-84BE-8951E0AF03B3}.Release|x86.Build.0 = Release|x86
+		{7926C176-09ED-4F20-B813-3B140EEBA75B}.Debug|x86.ActiveCfg = Debug|x86
+		{7926C176-09ED-4F20-B813-3B140EEBA75B}.Debug|x86.Build.0 = Debug|x86
+		{7926C176-09ED-4F20-B813-3B140EEBA75B}.Release|x86.ActiveCfg = Release|x86
+		{7926C176-09ED-4F20-B813-3B140EEBA75B}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
