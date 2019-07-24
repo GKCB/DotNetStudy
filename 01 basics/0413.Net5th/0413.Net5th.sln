@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04添加带属性的XML文�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05文档对象模型", "05文档对象模型\05文档对象模型.csproj", "{7926C176-09ED-4F20-B813-3B140EEBA75B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06对xml文档实现增删改查", "06对xml文档实现增删改查\06对xml文档实现增删改查.csproj", "{7BC6C550-81B9-40F1-A217-102F4F059D29}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -37,6 +39,10 @@ Global
 		{7926C176-09ED-4F20-B813-3B140EEBA75B}.Debug|x86.Build.0 = Debug|x86
 		{7926C176-09ED-4F20-B813-3B140EEBA75B}.Release|x86.ActiveCfg = Release|x86
 		{7926C176-09ED-4F20-B813-3B140EEBA75B}.Release|x86.Build.0 = Release|x86
+		{7BC6C550-81B9-40F1-A217-102F4F059D29}.Debug|x86.ActiveCfg = Debug|x86
+		{7BC6C550-81B9-40F1-A217-102F4F059D29}.Debug|x86.Build.0 = Debug|x86
+		{7BC6C550-81B9-40F1-A217-102F4F059D29}.Release|x86.ActiveCfg = Release|x86
+		{7BC6C550-81B9-40F1-A217-102F4F059D29}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
