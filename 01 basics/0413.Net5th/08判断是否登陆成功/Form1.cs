@@ -27,7 +27,7 @@ namespace _08判断是否登陆成功
 
             XmlDocument doc = new XmlDocument();
 
-            doc.Load("person.xml");
+            doc.Load("../../Person.xml");
 
             //获得根节点
             XmlElement person = doc.DocumentElement;
