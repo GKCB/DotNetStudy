@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07大小写", "07大小写\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08判断是否登陆成功", "08判断是否登陆成功\08判断是否登陆成功.csproj", "{DCB04ACE-44B2-4FC2-B1D2-EDAF414D06B8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09使用XML实现增删改查", "09使用XML实现增删改查\09使用XML实现增删改查.csproj", "{DF5A0FE1-9825-415F-9711-F59043E8A7B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -55,6 +57,10 @@ Global
 		{DCB04ACE-44B2-4FC2-B1D2-EDAF414D06B8}.Debug|x86.Build.0 = Debug|x86
 		{DCB04ACE-44B2-4FC2-B1D2-EDAF414D06B8}.Release|x86.ActiveCfg = Release|x86
 		{DCB04ACE-44B2-4FC2-B1D2-EDAF414D06B8}.Release|x86.Build.0 = Release|x86
+		{DF5A0FE1-9825-415F-9711-F59043E8A7B9}.Debug|x86.ActiveCfg = Debug|x86
+		{DF5A0FE1-9825-415F-9711-F59043E8A7B9}.Debug|x86.Build.0 = Debug|x86
+		{DF5A0FE1-9825-415F-9711-F59043E8A7B9}.Release|x86.ActiveCfg = Release|x86
+		{DF5A0FE1-9825-415F-9711-F59043E8A7B9}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
