@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08判断是否登陆成功"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09使用XML实现增删改查", "09使用XML实现增删改查\09使用XML实现增删改查.csproj", "{DF5A0FE1-9825-415F-9711-F59043E8A7B9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10为什么会有委托", "10为什么会有委托\10为什么会有委托.csproj", "{C50BB1EE-65CC-46C0-B082-BA81FBFD019B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11为什么会有委托", "11为什么会有委托\11为什么会有委托.csproj", "{BC1A137A-62DB-42DA-B403-1FCA4F37E08D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -61,6 +65,14 @@ Global
 		{DF5A0FE1-9825-415F-9711-F59043E8A7B9}.Debug|x86.Build.0 = Debug|x86
 		{DF5A0FE1-9825-415F-9711-F59043E8A7B9}.Release|x86.ActiveCfg = Release|x86
 		{DF5A0FE1-9825-415F-9711-F59043E8A7B9}.Release|x86.Build.0 = Release|x86
+		{C50BB1EE-65CC-46C0-B082-BA81FBFD019B}.Debug|x86.ActiveCfg = Debug|x86
+		{C50BB1EE-65CC-46C0-B082-BA81FBFD019B}.Debug|x86.Build.0 = Debug|x86
+		{C50BB1EE-65CC-46C0-B082-BA81FBFD019B}.Release|x86.ActiveCfg = Release|x86
+		{C50BB1EE-65CC-46C0-B082-BA81FBFD019B}.Release|x86.Build.0 = Release|x86
+		{BC1A137A-62DB-42DA-B403-1FCA4F37E08D}.Debug|x86.ActiveCfg = Debug|x86
+		{BC1A137A-62DB-42DA-B403-1FCA4F37E08D}.Debug|x86.Build.0 = Debug|x86
+		{BC1A137A-62DB-42DA-B403-1FCA4F37E08D}.Release|x86.ActiveCfg = Release|x86
+		{BC1A137A-62DB-42DA-B403-1FCA4F37E08D}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
