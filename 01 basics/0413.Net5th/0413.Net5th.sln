@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11为什么会有委托", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12委托练习", "12委托练习\12委托练习.csproj", "{ABB8B1C8-D919-4E32-9A96-1B4207E70785}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13匿名函数和lamda表达式的写法", "13匿名函数和lamda表达式的写法\13匿名函数和lamda表达式的写法.csproj", "{6EB43B93-66E9-4AFF-B87B-639FA1E90A17}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -79,6 +81,10 @@ Global
 		{ABB8B1C8-D919-4E32-9A96-1B4207E70785}.Debug|x86.Build.0 = Debug|x86
 		{ABB8B1C8-D919-4E32-9A96-1B4207E70785}.Release|x86.ActiveCfg = Release|x86
 		{ABB8B1C8-D919-4E32-9A96-1B4207E70785}.Release|x86.Build.0 = Release|x86
+		{6EB43B93-66E9-4AFF-B87B-639FA1E90A17}.Debug|x86.ActiveCfg = Debug|x86
+		{6EB43B93-66E9-4AFF-B87B-639FA1E90A17}.Debug|x86.Build.0 = Debug|x86
+		{6EB43B93-66E9-4AFF-B87B-639FA1E90A17}.Release|x86.ActiveCfg = Release|x86
+		{6EB43B93-66E9-4AFF-B87B-639FA1E90A17}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
