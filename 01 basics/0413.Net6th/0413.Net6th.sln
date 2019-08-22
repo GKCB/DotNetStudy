@@ -3,6 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01委托概念", "01委托概念\01委托概念.csproj", "{444DEF34-9BA0-45AE-A963-4AA7AA3DAC66}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02求数组的最大值", "02求数组的最大值\02求数组的最大值.csproj", "{7E44E9C3-8DA5-48B5-A9E8-E87C266B8A36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03泛型委托", "03泛型委托\03泛型委托.csproj", "{5C27D77A-5F85-450B-BC5D-917635FBF6F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04多播委托", "04多播委托\04多播委托.csproj", "{5DEA0C21-332A-4762-8CAC-FBF08B10A7DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05使用委托进行窗体间的传值", "05使用委托进行窗体间的传值\05使用委托进行窗体间的传值.csproj", "{D3C1B49F-B768-4953-BC98-C67C622999E6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,6 +21,22 @@ Global
 		{444DEF34-9BA0-45AE-A963-4AA7AA3DAC66}.Debug|x86.Build.0 = Debug|x86
 		{444DEF34-9BA0-45AE-A963-4AA7AA3DAC66}.Release|x86.ActiveCfg = Release|x86
 		{444DEF34-9BA0-45AE-A963-4AA7AA3DAC66}.Release|x86.Build.0 = Release|x86
+		{7E44E9C3-8DA5-48B5-A9E8-E87C266B8A36}.Debug|x86.ActiveCfg = Debug|x86
+		{7E44E9C3-8DA5-48B5-A9E8-E87C266B8A36}.Debug|x86.Build.0 = Debug|x86
+		{7E44E9C3-8DA5-48B5-A9E8-E87C266B8A36}.Release|x86.ActiveCfg = Release|x86
+		{7E44E9C3-8DA5-48B5-A9E8-E87C266B8A36}.Release|x86.Build.0 = Release|x86
+		{5C27D77A-5F85-450B-BC5D-917635FBF6F0}.Debug|x86.ActiveCfg = Debug|x86
+		{5C27D77A-5F85-450B-BC5D-917635FBF6F0}.Debug|x86.Build.0 = Debug|x86
+		{5C27D77A-5F85-450B-BC5D-917635FBF6F0}.Release|x86.ActiveCfg = Release|x86
+		{5C27D77A-5F85-450B-BC5D-917635FBF6F0}.Release|x86.Build.0 = Release|x86
+		{5DEA0C21-332A-4762-8CAC-FBF08B10A7DB}.Debug|x86.ActiveCfg = Debug|x86
+		{5DEA0C21-332A-4762-8CAC-FBF08B10A7DB}.Debug|x86.Build.0 = Debug|x86
+		{5DEA0C21-332A-4762-8CAC-FBF08B10A7DB}.Release|x86.ActiveCfg = Release|x86
+		{5DEA0C21-332A-4762-8CAC-FBF08B10A7DB}.Release|x86.Build.0 = Release|x86
+		{D3C1B49F-B768-4953-BC98-C67C622999E6}.Debug|x86.ActiveCfg = Debug|x86
+		{D3C1B49F-B768-4953-BC98-C67C622999E6}.Debug|x86.Build.0 = Debug|x86
+		{D3C1B49F-B768-4953-BC98-C67C622999E6}.Release|x86.ActiveCfg = Release|x86
+		{D3C1B49F-B768-4953-BC98-C67C622999E6}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
