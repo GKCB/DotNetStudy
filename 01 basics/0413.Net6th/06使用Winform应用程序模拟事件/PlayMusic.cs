@@ -6,8 +6,11 @@ using System.Threading;
 
 namespace _06使用Winform应用程序模拟事件
 {
+    public delegate void DelPalyOver();    
     class PlayMusic
     {
+        public event DelPalyOver Del;//声明事件不需要写()        
+        //public DelPalyOver Del;
         //音乐播放的名字
         public string Name { get; set; }
         public PlayMusic(string name)
@@ -19,8 +22,12 @@ namespace _06使用Winform应用程序模拟事件
             Console.WriteLine("正在播放"+this.Name);
             //模拟播放了三秒钟
             Thread.Sleep(3000);
-            //当播放完成后 执行一个事件
-
+            if (Del != null)
+            { 
+                //当播放完成后 执行一个事件
+                Del();//直接调用“事件”
+            }
+            
         }
     }
 }

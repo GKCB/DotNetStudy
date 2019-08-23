@@ -15,5 +15,17 @@ namespace _06使用Winform应用程序模拟事件
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            PlayMusic p = new PlayMusic("忐忑");//创建对象 播放音乐
+            p.Del += Test;  //注册事件 p.Del = Test; 这是委托的写法
+            p.PlaySongs(); //开始播放音乐
+        }
+
+        void Test()
+        {
+            Console.WriteLine("播放完成了！！！");
+        }
     }
 }
