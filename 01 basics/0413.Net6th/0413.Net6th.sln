@@ -11,6 +11,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04多播委托", "04多播�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05使用委托进行窗体间的传值", "05使用委托进行窗体间的传值\05使用委托进行窗体间的传值.csproj", "{D3C1B49F-B768-4953-BC98-C67C622999E6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06使用Winform应用程序模拟事件", "06使用Winform应用程序模拟事件\06使用Winform应用程序模拟事件.csproj", "{5FBA020F-9D54-4049-AD62-4E7852E99E7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07事件执行所需要的参数", "07事件执行所需要的参数\07事件执行所需要的参数.csproj", "{4615116F-967D-4B96-A3A4-4CB70C01AA9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08事件的本质", "08事件的本质\08事件的本质.csproj", "{8F4BC93E-4A39-4DFA-BB61-F4FFB1B0D95A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -37,6 +43,18 @@ Global
 		{D3C1B49F-B768-4953-BC98-C67C622999E6}.Debug|x86.Build.0 = Debug|x86
 		{D3C1B49F-B768-4953-BC98-C67C622999E6}.Release|x86.ActiveCfg = Release|x86
 		{D3C1B49F-B768-4953-BC98-C67C622999E6}.Release|x86.Build.0 = Release|x86
+		{5FBA020F-9D54-4049-AD62-4E7852E99E7C}.Debug|x86.ActiveCfg = Debug|x86
+		{5FBA020F-9D54-4049-AD62-4E7852E99E7C}.Debug|x86.Build.0 = Debug|x86
+		{5FBA020F-9D54-4049-AD62-4E7852E99E7C}.Release|x86.ActiveCfg = Release|x86
+		{5FBA020F-9D54-4049-AD62-4E7852E99E7C}.Release|x86.Build.0 = Release|x86
+		{4615116F-967D-4B96-A3A4-4CB70C01AA9B}.Debug|x86.ActiveCfg = Debug|x86
+		{4615116F-967D-4B96-A3A4-4CB70C01AA9B}.Debug|x86.Build.0 = Debug|x86
+		{4615116F-967D-4B96-A3A4-4CB70C01AA9B}.Release|x86.ActiveCfg = Release|x86
+		{4615116F-967D-4B96-A3A4-4CB70C01AA9B}.Release|x86.Build.0 = Release|x86
+		{8F4BC93E-4A39-4DFA-BB61-F4FFB1B0D95A}.Debug|x86.ActiveCfg = Debug|x86
+		{8F4BC93E-4A39-4DFA-BB61-F4FFB1B0D95A}.Debug|x86.Build.0 = Debug|x86
+		{8F4BC93E-4A39-4DFA-BB61-F4FFB1B0D95A}.Release|x86.ActiveCfg = Release|x86
+		{8F4BC93E-4A39-4DFA-BB61-F4FFB1B0D95A}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
