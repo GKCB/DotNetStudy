@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07事件执行所需要的�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08事件的本质", "08事件的本质\08事件的本质.csproj", "{8F4BC93E-4A39-4DFA-BB61-F4FFB1B0D95A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09自己写事件", "09自己写事件\09自己写事件.csproj", "{B4DF7236-EF0F-402E-916C-D460A6BE5527}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -55,6 +57,10 @@ Global
 		{8F4BC93E-4A39-4DFA-BB61-F4FFB1B0D95A}.Debug|x86.Build.0 = Debug|x86
 		{8F4BC93E-4A39-4DFA-BB61-F4FFB1B0D95A}.Release|x86.ActiveCfg = Release|x86
 		{8F4BC93E-4A39-4DFA-BB61-F4FFB1B0D95A}.Release|x86.Build.0 = Release|x86
+		{B4DF7236-EF0F-402E-916C-D460A6BE5527}.Debug|x86.ActiveCfg = Debug|x86
+		{B4DF7236-EF0F-402E-916C-D460A6BE5527}.Debug|x86.Build.0 = Debug|x86
+		{B4DF7236-EF0F-402E-916C-D460A6BE5527}.Release|x86.ActiveCfg = Release|x86
+		{B4DF7236-EF0F-402E-916C-D460A6BE5527}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
