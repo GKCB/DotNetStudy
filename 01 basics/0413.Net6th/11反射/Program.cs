@@ -42,6 +42,9 @@ namespace _11反射
             {
                 Console.WriteLine(item);
             }
+            MethodInfo mdi = o.GetType().GetMethod("SayHello");
+            mdi.Invoke(o,null);
+
 
             #region 获得程序集数据的三个函数
             //获得程序集中所有的公开的数据
