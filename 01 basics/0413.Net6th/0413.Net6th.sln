@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10程序集的引用", "10�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{09B2B3DC-C578-4EDE-9C60-A3F0B12FC719}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11反射", "11反射\11反射.csproj", "{35EB0FC9-7FBB-40F1-9F1A-261578B13F46}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -143,6 +145,16 @@ Global
 		{09B2B3DC-C578-4EDE-9C60-A3F0B12FC719}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{09B2B3DC-C578-4EDE-9C60-A3F0B12FC719}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{09B2B3DC-C578-4EDE-9C60-A3F0B12FC719}.Release|x86.ActiveCfg = Release|Any CPU
+		{35EB0FC9-7FBB-40F1-9F1A-261578B13F46}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{35EB0FC9-7FBB-40F1-9F1A-261578B13F46}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{35EB0FC9-7FBB-40F1-9F1A-261578B13F46}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{35EB0FC9-7FBB-40F1-9F1A-261578B13F46}.Debug|x86.ActiveCfg = Debug|x86
+		{35EB0FC9-7FBB-40F1-9F1A-261578B13F46}.Debug|x86.Build.0 = Debug|x86
+		{35EB0FC9-7FBB-40F1-9F1A-261578B13F46}.Release|Any CPU.ActiveCfg = Release|x86
+		{35EB0FC9-7FBB-40F1-9F1A-261578B13F46}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{35EB0FC9-7FBB-40F1-9F1A-261578B13F46}.Release|Mixed Platforms.Build.0 = Release|x86
+		{35EB0FC9-7FBB-40F1-9F1A-261578B13F46}.Release|x86.ActiveCfg = Release|x86
+		{35EB0FC9-7FBB-40F1-9F1A-261578B13F46}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
