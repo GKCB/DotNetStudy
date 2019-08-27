@@ -1,4 +1,0 @@
-F:\oldboy\aspcode\DotNetStudy\0413.Net1st\05动物类继承\bin\Debug\05动物类继承.exe
-F:\oldboy\aspcode\DotNetStudy\0413.Net1st\05动物类继承\bin\Debug\05动物类继承.pdb
-F:\oldboy\aspcode\DotNetStudy\0413.Net1st\05动物类继承\obj\x86\Debug\05动物类继承.exe
-F:\oldboy\aspcode\DotNetStudy\0413.Net1st\05动物类继承\obj\x86\Debug\05动物类继承.pdb

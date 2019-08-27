@@ -1,4 +1,0 @@
-F:\oldboy\aspcode\0413.Net1st\01进程\bin\Debug\01进程.exe
-F:\oldboy\aspcode\0413.Net1st\01进程\bin\Debug\01进程.pdb
-F:\oldboy\aspcode\0413.Net1st\01进程\obj\x86\Debug\01进程.exe
-F:\oldboy\aspcode\0413.Net1st\01进程\obj\x86\Debug\01进程.pdb

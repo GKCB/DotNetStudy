@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Person>
-  <Student studentID="110">
-    <Name>张三三李思思</Name>
-    <Age>28</Age>
-    <Gender>男</Gender>
-  </Student>
-</Person>

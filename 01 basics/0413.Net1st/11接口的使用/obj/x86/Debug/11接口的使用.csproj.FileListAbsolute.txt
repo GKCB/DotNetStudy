@@ -1,4 +1,0 @@
-F:\oldboy\aspcode\DotNetStudy\0413.Net1st\11接口的使用\bin\Debug\11接口的使用.exe
-F:\oldboy\aspcode\DotNetStudy\0413.Net1st\11接口的使用\bin\Debug\11接口的使用.pdb
-F:\oldboy\aspcode\DotNetStudy\0413.Net1st\11接口的使用\obj\x86\Debug\11接口的使用.exe
-F:\oldboy\aspcode\DotNetStudy\0413.Net1st\11接口的使用\obj\x86\Debug\11接口的使用.pdb

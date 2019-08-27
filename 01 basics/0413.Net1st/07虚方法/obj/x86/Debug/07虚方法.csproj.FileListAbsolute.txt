@@ -1,4 +1,0 @@
-F:\oldboy\aspcode\DotNetStudy\0413.Net1st\07虚方法\bin\Debug\07虚方法.exe
-F:\oldboy\aspcode\DotNetStudy\0413.Net1st\07虚方法\bin\Debug\07虚方法.pdb
-F:\oldboy\aspcode\DotNetStudy\0413.Net1st\07虚方法\obj\x86\Debug\07虚方法.exe
-F:\oldboy\aspcode\DotNetStudy\0413.Net1st\07虚方法\obj\x86\Debug\07虚方法.pdb

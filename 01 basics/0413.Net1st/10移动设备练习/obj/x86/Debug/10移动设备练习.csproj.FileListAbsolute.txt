@@ -1,4 +1,0 @@
-F:\oldboy\aspcode\DotNetStudy\0413.Net1st\10移动设备练习\bin\Debug\10移动设备练习.exe
-F:\oldboy\aspcode\DotNetStudy\0413.Net1st\10移动设备练习\bin\Debug\10移动设备练习.pdb
-F:\oldboy\aspcode\DotNetStudy\0413.Net1st\10移动设备练习\obj\x86\Debug\10移动设备练习.exe
-F:\oldboy\aspcode\DotNetStudy\0413.Net1st\10移动设备练习\obj\x86\Debug\10移动设备练习.pdb

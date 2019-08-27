@@ -1,4 +1,0 @@
-F:\oldboy\aspcode\DotNetStudy\0413.Net1st\04三个关键字\bin\Debug\04三个关键字.exe
-F:\oldboy\aspcode\DotNetStudy\0413.Net1st\04三个关键字\bin\Debug\04三个关键字.pdb
-F:\oldboy\aspcode\DotNetStudy\0413.Net1st\04三个关键字\obj\x86\Debug\04三个关键字.exe
-F:\oldboy\aspcode\DotNetStudy\0413.Net1st\04三个关键字\obj\x86\Debug\04三个关键字.pdb
