@@ -1,5 +1,0 @@
-F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\Common\bin\Debug\Common.dll
-F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\Common\bin\Debug\Common.pdb
-F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\Common\obj\Debug\Common.dll
-F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\Common\obj\Debug\Common.pdb
-F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache

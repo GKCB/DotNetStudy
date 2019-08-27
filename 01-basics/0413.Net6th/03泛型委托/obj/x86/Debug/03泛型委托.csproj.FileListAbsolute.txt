@@ -1,4 +1,0 @@
-F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\03泛型委托\bin\Debug\03泛型委托.exe
-F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\03泛型委托\bin\Debug\03泛型委托.pdb
-F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\03泛型委托\obj\x86\Debug\03泛型委托.exe
-F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\03泛型委托\obj\x86\Debug\03泛型委托.pdb

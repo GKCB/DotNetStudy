@@ -1,4 +1,0 @@
-F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\01委托概念\bin\Debug\01委托概念.exe
-F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\01委托概念\bin\Debug\01委托概念.pdb
-F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\01委托概念\obj\x86\Debug\01委托概念.exe
-F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\01委托概念\obj\x86\Debug\01委托概念.pdb

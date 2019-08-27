@@ -1,7 +1,0 @@
-F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\10程序集的引用\bin\Debug\10程序集的引用.exe
-F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\10程序集的引用\bin\Debug\10程序集的引用.pdb
-F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\10程序集的引用\bin\Debug\Common.dll
-F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\10程序集的引用\bin\Debug\Common.pdb
-F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\10程序集的引用\obj\x86\Debug\10程序集的引用.csprojResolveAssemblyReference.cache
-F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\10程序集的引用\obj\x86\Debug\10程序集的引用.exe
-F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\10程序集的引用\obj\x86\Debug\10程序集的引用.pdb

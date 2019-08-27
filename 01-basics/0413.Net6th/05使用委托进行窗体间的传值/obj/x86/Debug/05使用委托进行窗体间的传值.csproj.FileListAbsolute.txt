@@ -1,8 +1,0 @@
-F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\05使用委托进行窗体间的传值\bin\Debug\05使用委托进行窗体间的传值.exe
-F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\05使用委托进行窗体间的传值\bin\Debug\05使用委托进行窗体间的传值.pdb
-F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\05使用委托进行窗体间的传值\obj\x86\Debug\_05使用委托进行窗体间的传值.Form1.resources
-F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\05使用委托进行窗体间的传值\obj\x86\Debug\_05使用委托进行窗体间的传值.Form2.resources
-F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\05使用委托进行窗体间的传值\obj\x86\Debug\_05使用委托进行窗体间的传值.Properties.Resources.resources
-F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\05使用委托进行窗体间的传值\obj\x86\Debug\05使用委托进行窗体间的传值.csproj.GenerateResource.Cache
-F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\05使用委托进行窗体间的传值\obj\x86\Debug\05使用委托进行窗体间的传值.exe
-F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\05使用委托进行窗体间的传值\obj\x86\Debug\05使用委托进行窗体间的传值.pdb

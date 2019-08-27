@@ -1,4 +1,0 @@
-F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\08事件的本质\bin\Debug\08事件的本质.exe
-F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\08事件的本质\bin\Debug\08事件的本质.pdb
-F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\08事件的本质\obj\x86\Debug\08事件的本质.exe
-F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\08事件的本质\obj\x86\Debug\08事件的本质.pdb
