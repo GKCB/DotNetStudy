@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace _13ProCalculator
+namespace ProCalculator
 {
     public partial class Form1 : Form
     {

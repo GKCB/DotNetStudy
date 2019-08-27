@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace _13ProCalculator.Properties
+namespace ProCalculator.Properties
 {
 
 

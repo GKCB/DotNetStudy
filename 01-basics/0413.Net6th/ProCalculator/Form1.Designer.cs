@@ -1,4 +1,4 @@
-﻿namespace _13ProCalculator
+﻿namespace ProCalculator
 {
     partial class Form1
     {

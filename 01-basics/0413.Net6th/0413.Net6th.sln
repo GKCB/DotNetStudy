@@ -27,6 +27,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11反射", "11反射\11反�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12反射的常用函数", "12反射的常用函数\12反射的常用函数.csproj", "{5B6229B3-73B7-43BF-BF59-B1484166812A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "计算器", "计算器", "{B8CDE50B-7A86-43AA-8A7A-02E7CA908172}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProCalculator", "ProCalculator\ProCalculator.csproj", "{9ED09AF0-A54C-4A14-A533-EB73A617911D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProOperation", "ProOperation\ProOperation.csproj", "{B82CA89D-101D-494F-9CF1-1F0EF7FB6F98}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -167,8 +173,32 @@ Global
 		{5B6229B3-73B7-43BF-BF59-B1484166812A}.Release|Mixed Platforms.Build.0 = Release|x86
 		{5B6229B3-73B7-43BF-BF59-B1484166812A}.Release|x86.ActiveCfg = Release|x86
 		{5B6229B3-73B7-43BF-BF59-B1484166812A}.Release|x86.Build.0 = Release|x86
+		{9ED09AF0-A54C-4A14-A533-EB73A617911D}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{9ED09AF0-A54C-4A14-A533-EB73A617911D}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{9ED09AF0-A54C-4A14-A533-EB73A617911D}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{9ED09AF0-A54C-4A14-A533-EB73A617911D}.Debug|x86.ActiveCfg = Debug|x86
+		{9ED09AF0-A54C-4A14-A533-EB73A617911D}.Debug|x86.Build.0 = Debug|x86
+		{9ED09AF0-A54C-4A14-A533-EB73A617911D}.Release|Any CPU.ActiveCfg = Release|x86
+		{9ED09AF0-A54C-4A14-A533-EB73A617911D}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{9ED09AF0-A54C-4A14-A533-EB73A617911D}.Release|Mixed Platforms.Build.0 = Release|x86
+		{9ED09AF0-A54C-4A14-A533-EB73A617911D}.Release|x86.ActiveCfg = Release|x86
+		{9ED09AF0-A54C-4A14-A533-EB73A617911D}.Release|x86.Build.0 = Release|x86
+		{B82CA89D-101D-494F-9CF1-1F0EF7FB6F98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B82CA89D-101D-494F-9CF1-1F0EF7FB6F98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B82CA89D-101D-494F-9CF1-1F0EF7FB6F98}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{B82CA89D-101D-494F-9CF1-1F0EF7FB6F98}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{B82CA89D-101D-494F-9CF1-1F0EF7FB6F98}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B82CA89D-101D-494F-9CF1-1F0EF7FB6F98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B82CA89D-101D-494F-9CF1-1F0EF7FB6F98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B82CA89D-101D-494F-9CF1-1F0EF7FB6F98}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{B82CA89D-101D-494F-9CF1-1F0EF7FB6F98}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{B82CA89D-101D-494F-9CF1-1F0EF7FB6F98}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9ED09AF0-A54C-4A14-A533-EB73A617911D} = {B8CDE50B-7A86-43AA-8A7A-02E7CA908172}
+		{B82CA89D-101D-494F-9CF1-1F0EF7FB6F98} = {B8CDE50B-7A86-43AA-8A7A-02E7CA908172}
 	EndGlobalSection
 EndGlobal
