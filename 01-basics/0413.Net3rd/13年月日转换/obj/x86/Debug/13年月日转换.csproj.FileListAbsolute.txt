@@ -1,0 +1,4 @@
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net3rd\13年月日转换\bin\Debug\13年月日转换.exe
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net3rd\13年月日转换\bin\Debug\13年月日转换.pdb
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net3rd\13年月日转换\obj\x86\Debug\13年月日转换.exe
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net3rd\13年月日转换\obj\x86\Debug\13年月日转换.pdb

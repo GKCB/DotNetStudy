@@ -1,0 +1,4 @@
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net5th\03写入一个XML文件\bin\Debug\03写入一个XML文件.exe
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net5th\03写入一个XML文件\bin\Debug\03写入一个XML文件.pdb
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net5th\03写入一个XML文件\obj\x86\Debug\03写入一个XML文件.exe
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net5th\03写入一个XML文件\obj\x86\Debug\03写入一个XML文件.pdb

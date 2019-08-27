@@ -1,0 +1,7 @@
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net3rd\03使用StringBuilder来拼接HTML中的Table表格\bin\Debug\03使用StringBuilder来拼接HTML中的Table表格.exe
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net3rd\03使用StringBuilder来拼接HTML中的Table表格\bin\Debug\03使用StringBuilder来拼接HTML中的Table表格.pdb
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net3rd\03使用StringBuilder来拼接HTML中的Table表格\obj\x86\Debug\_03使用StringBuilder来拼接HTML中的Table表格.Form1.resources
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net3rd\03使用StringBuilder来拼接HTML中的Table表格\obj\x86\Debug\_03使用StringBuilder来拼接HTML中的Table表格.Properties.Resources.resources
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net3rd\03使用StringBuilder来拼接HTML中的Table表格\obj\x86\Debug\03使用StringBuilder来拼接HTML中的Table表格.csproj.GenerateResource.Cache
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net3rd\03使用StringBuilder来拼接HTML中的Table表格\obj\x86\Debug\03使用StringBuilder来拼接HTML中的Table表格.exe
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net3rd\03使用StringBuilder来拼接HTML中的Table表格\obj\x86\Debug\03使用StringBuilder来拼接HTML中的Table表格.pdb

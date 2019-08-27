@@ -1,0 +1,8 @@
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net4th\复制文件\bin\Debug\复制文件.exe
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net4th\复制文件\bin\Debug\复制文件.pdb
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net4th\复制文件\obj\x86\Debug\复制文件.Form1.resources
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net4th\复制文件\obj\x86\Debug\复制文件.Properties.Resources.resources
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net4th\复制文件\obj\x86\Debug\复制文件.csproj.GenerateResource.Cache
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net4th\复制文件\obj\x86\Debug\复制文件.exe
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net4th\复制文件\obj\x86\Debug\复制文件.pdb
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net4th\复制文件\obj\x86\Debug\复制文件.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net4th\04资料管理器\bin\Debug\04资料管理器.exe
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net4th\04资料管理器\bin\Debug\04资料管理器.pdb
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net4th\04资料管理器\obj\x86\Debug\_04资料管理器.Properties.Resources.resources
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net4th\04资料管理器\obj\x86\Debug\04资料管理器.csproj.GenerateResource.Cache
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net4th\04资料管理器\obj\x86\Debug\04资料管理器.exe
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net4th\04资料管理器\obj\x86\Debug\04资料管理器.pdb

@@ -1,0 +1,7 @@
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\07事件执行所需要的参数\bin\Debug\07事件执行所需要的参数.exe
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\07事件执行所需要的参数\bin\Debug\07事件执行所需要的参数.pdb
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\07事件执行所需要的参数\obj\x86\Debug\_07事件执行所需要的参数.Form1.resources
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\07事件执行所需要的参数\obj\x86\Debug\_07事件执行所需要的参数.Properties.Resources.resources
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\07事件执行所需要的参数\obj\x86\Debug\07事件执行所需要的参数.csproj.GenerateResource.Cache
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\07事件执行所需要的参数\obj\x86\Debug\07事件执行所需要的参数.exe
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\07事件执行所需要的参数\obj\x86\Debug\07事件执行所需要的参数.pdb

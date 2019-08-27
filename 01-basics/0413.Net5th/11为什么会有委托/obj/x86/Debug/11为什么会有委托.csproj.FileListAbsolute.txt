@@ -1,0 +1,4 @@
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net5th\11为什么会有委托\bin\Debug\11为什么会有委托.exe
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net5th\11为什么会有委托\bin\Debug\11为什么会有委托.pdb
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net5th\11为什么会有委托\obj\x86\Debug\11为什么会有委托.exe
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net5th\11为什么会有委托\obj\x86\Debug\11为什么会有委托.pdb

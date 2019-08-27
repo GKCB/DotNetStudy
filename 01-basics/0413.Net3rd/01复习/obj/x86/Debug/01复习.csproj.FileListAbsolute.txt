@@ -1,0 +1,4 @@
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net3rd\01复习\bin\Debug\01复习.exe
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net3rd\01复习\bin\Debug\01复习.pdb
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net3rd\01复习\obj\x86\Debug\01复习.exe
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net3rd\01复习\obj\x86\Debug\01复习.pdb

@@ -1,0 +1,4 @@
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net5th\07大小写\bin\Debug\07大小写.exe
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net5th\07大小写\bin\Debug\07大小写.pdb
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net5th\07大小写\obj\x86\Debug\07大小写.exe
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net5th\07大小写\obj\x86\Debug\07大小写.pdb

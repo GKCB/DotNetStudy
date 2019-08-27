@@ -1,0 +1,4 @@
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net4th\02Directory\bin\Debug\02Directory.exe
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net4th\02Directory\bin\Debug\02Directory.pdb
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net4th\02Directory\obj\x86\Debug\02Directory.exe
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net4th\02Directory\obj\x86\Debug\02Directory.pdb

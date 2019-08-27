@@ -1,0 +1,4 @@
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net4th\07正则表达式匹配练习\bin\Debug\07正则表达式匹配练习.exe
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net4th\07正则表达式匹配练习\bin\Debug\07正则表达式匹配练习.pdb
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net4th\07正则表达式匹配练习\obj\x86\Debug\07正则表达式匹配练习.exe
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net4th\07正则表达式匹配练习\obj\x86\Debug\07正则表达式匹配练习.pdb

@@ -1,0 +1,4 @@
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net3rd\02StringBuilder\bin\Debug\02StringBuilder.exe
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net3rd\02StringBuilder\bin\Debug\02StringBuilder.pdb
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net3rd\02StringBuilder\obj\x86\Debug\02StringBuilder.exe
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net3rd\02StringBuilder\obj\x86\Debug\02StringBuilder.pdb

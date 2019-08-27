@@ -1,0 +1,7 @@
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\06使用Winform应用程序模拟事件\bin\Debug\06使用Winform应用程序模拟事件.exe
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\06使用Winform应用程序模拟事件\bin\Debug\06使用Winform应用程序模拟事件.pdb
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\06使用Winform应用程序模拟事件\obj\x86\Debug\_06使用Winform应用程序模拟事件.Form1.resources
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\06使用Winform应用程序模拟事件\obj\x86\Debug\_06使用Winform应用程序模拟事件.Properties.Resources.resources
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\06使用Winform应用程序模拟事件\obj\x86\Debug\06使用Winform应用程序模拟事件.csproj.GenerateResource.Cache
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\06使用Winform应用程序模拟事件\obj\x86\Debug\06使用Winform应用程序模拟事件.exe
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\06使用Winform应用程序模拟事件\obj\x86\Debug\06使用Winform应用程序模拟事件.pdb

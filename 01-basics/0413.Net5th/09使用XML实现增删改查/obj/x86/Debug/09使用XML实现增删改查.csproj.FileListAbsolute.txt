@@ -1,0 +1,7 @@
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net5th\09使用XML实现增删改查\obj\x86\Debug\_09使用XML实现增删改查.Form1.resources
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net5th\09使用XML实现增删改查\obj\x86\Debug\_09使用XML实现增删改查.Properties.Resources.resources
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net5th\09使用XML实现增删改查\obj\x86\Debug\09使用XML实现增删改查.csproj.GenerateResource.Cache
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net5th\09使用XML实现增删改查\bin\Debug\09使用XML实现增删改查.exe
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net5th\09使用XML实现增删改查\bin\Debug\09使用XML实现增删改查.pdb
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net5th\09使用XML实现增删改查\obj\x86\Debug\09使用XML实现增删改查.exe
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net5th\09使用XML实现增删改查\obj\x86\Debug\09使用XML实现增删改查.pdb

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Boos>
+  <Book>
+    <BookName>水浒传</BookName>
+    <Author>xxx</Author>
+    <Price>100RMB</Price>
+    <Des>好看</Des>
+  </Book>
+</Boos>

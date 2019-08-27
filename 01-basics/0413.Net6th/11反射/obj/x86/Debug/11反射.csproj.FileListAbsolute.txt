@@ -1,0 +1,4 @@
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\11反射\bin\Debug\11反射.exe
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\11反射\bin\Debug\11反射.pdb
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\11反射\obj\x86\Debug\11反射.exe
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\11反射\obj\x86\Debug\11反射.pdb

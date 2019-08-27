@@ -1,0 +1,4 @@
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net2nd\ProOperation\bin\Debug\ProOperation.dll
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net2nd\ProOperation\bin\Debug\ProOperation.pdb
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net2nd\ProOperation\obj\Debug\ProOperation.dll
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net2nd\ProOperation\obj\Debug\ProOperation.pdb

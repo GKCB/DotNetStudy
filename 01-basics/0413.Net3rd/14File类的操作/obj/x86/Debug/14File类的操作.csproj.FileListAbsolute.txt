@@ -1,0 +1,4 @@
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net3rd\14File类的操作\bin\Debug\14File类的操作.exe
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net3rd\14File类的操作\bin\Debug\14File类的操作.pdb
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net3rd\14File类的操作\obj\x86\Debug\14File类的操作.exe
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net3rd\14File类的操作\obj\x86\Debug\14File类的操作.pdb

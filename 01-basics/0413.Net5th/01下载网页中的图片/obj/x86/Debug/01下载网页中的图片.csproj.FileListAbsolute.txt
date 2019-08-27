@@ -1,0 +1,4 @@
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net5th\01下载网页中的图片\bin\Debug\01下载网页中的图片.exe
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net5th\01下载网页中的图片\bin\Debug\01下载网页中的图片.pdb
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net5th\01下载网页中的图片\obj\x86\Debug\01下载网页中的图片.exe
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net5th\01下载网页中的图片\obj\x86\Debug\01下载网页中的图片.pdb

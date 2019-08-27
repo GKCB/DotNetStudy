@@ -1,0 +1,4 @@
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net5th\06对xml文档实现增删改查\bin\Debug\06对xml文档实现增删改查.exe
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net5th\06对xml文档实现增删改查\bin\Debug\06对xml文档实现增删改查.pdb
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net5th\06对xml文档实现增删改查\obj\x86\Debug\06对xml文档实现增删改查.exe
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net5th\06对xml文档实现增删改查\obj\x86\Debug\06对xml文档实现增删改查.pdb

@@ -1,0 +1,4 @@
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\02求数组的最大值\bin\Debug\02求数组的最大值.exe
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\02求数组的最大值\bin\Debug\02求数组的最大值.pdb
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\02求数组的最大值\obj\x86\Debug\02求数组的最大值.exe
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\02求数组的最大值\obj\x86\Debug\02求数组的最大值.pdb

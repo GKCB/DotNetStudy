@@ -1,0 +1,4 @@
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net3rd\05out参数的使用\bin\Debug\05out参数的使用.exe
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net3rd\05out参数的使用\bin\Debug\05out参数的使用.pdb
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net3rd\05out参数的使用\obj\x86\Debug\05out参数的使用.exe
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net3rd\05out参数的使用\obj\x86\Debug\05out参数的使用.pdb

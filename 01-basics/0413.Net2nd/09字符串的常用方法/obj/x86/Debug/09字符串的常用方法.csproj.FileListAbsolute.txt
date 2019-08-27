@@ -1,0 +1,4 @@
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net2nd\09字符串的常用方法\bin\Debug\09字符串的常用方法.exe
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net2nd\09字符串的常用方法\bin\Debug\09字符串的常用方法.pdb
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net2nd\09字符串的常用方法\obj\x86\Debug\09字符串的常用方法.exe
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net2nd\09字符串的常用方法\obj\x86\Debug\09字符串的常用方法.pdb

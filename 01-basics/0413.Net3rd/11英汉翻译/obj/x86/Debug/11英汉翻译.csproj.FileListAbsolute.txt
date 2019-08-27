@@ -1,0 +1,6 @@
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net3rd\11英汉翻译\bin\Debug\11英汉翻译.exe
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net3rd\11英汉翻译\bin\Debug\11英汉翻译.pdb
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net3rd\11英汉翻译\obj\x86\Debug\_11英汉翻译.Properties.Resources.resources
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net3rd\11英汉翻译\obj\x86\Debug\11英汉翻译.csproj.GenerateResource.Cache
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net3rd\11英汉翻译\obj\x86\Debug\11英汉翻译.exe
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net3rd\11英汉翻译\obj\x86\Debug\11英汉翻译.pdb

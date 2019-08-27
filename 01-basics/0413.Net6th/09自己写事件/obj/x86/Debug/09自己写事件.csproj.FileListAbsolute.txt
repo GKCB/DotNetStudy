@@ -1,0 +1,8 @@
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\09自己写事件\bin\Debug\09自己写事件.exe
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\09自己写事件\bin\Debug\09自己写事件.pdb
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\09自己写事件\obj\x86\Debug\_09自己写事件.Form1.resources
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\09自己写事件\obj\x86\Debug\_09自己写事件.Properties.Resources.resources
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\09自己写事件\obj\x86\Debug\09自己写事件.csproj.GenerateResource.Cache
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\09自己写事件\obj\x86\Debug\09自己写事件.exe
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\09自己写事件\obj\x86\Debug\09自己写事件.pdb
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net6th\09自己写事件\obj\x86\Debug\09自己写事件.csprojResolveAssemblyReference.cache

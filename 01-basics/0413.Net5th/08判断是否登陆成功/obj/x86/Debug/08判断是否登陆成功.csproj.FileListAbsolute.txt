@@ -1,0 +1,7 @@
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net5th\08判断是否登陆成功\bin\Debug\08判断是否登陆成功.exe
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net5th\08判断是否登陆成功\bin\Debug\08判断是否登陆成功.pdb
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net5th\08判断是否登陆成功\obj\x86\Debug\_08判断是否登陆成功.Form1.resources
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net5th\08判断是否登陆成功\obj\x86\Debug\_08判断是否登陆成功.Properties.Resources.resources
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net5th\08判断是否登陆成功\obj\x86\Debug\08判断是否登陆成功.csproj.GenerateResource.Cache
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net5th\08判断是否登陆成功\obj\x86\Debug\08判断是否登陆成功.exe
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net5th\08判断是否登陆成功\obj\x86\Debug\08判断是否登陆成功.pdb

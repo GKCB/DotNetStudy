@@ -1,0 +1,4 @@
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net4th\09提取页面的所有邮箱\bin\Debug\09提取页面的所有邮箱.exe
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net4th\09提取页面的所有邮箱\bin\Debug\09提取页面的所有邮箱.pdb
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net4th\09提取页面的所有邮箱\obj\x86\Debug\09提取页面的所有邮箱.exe
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net4th\09提取页面的所有邮箱\obj\x86\Debug\09提取页面的所有邮箱.pdb

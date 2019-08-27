@@ -1,0 +1,4 @@
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net5th\04添加带属性的XML文档\bin\Debug\04添加带属性的XML文档.exe
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net5th\04添加带属性的XML文档\bin\Debug\04添加带属性的XML文档.pdb
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net5th\04添加带属性的XML文档\obj\x86\Debug\04添加带属性的XML文档.exe
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net5th\04添加带属性的XML文档\obj\x86\Debug\04添加带属性的XML文档.pdb

@@ -1,0 +1,4 @@
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net5th\02获得页面中所有的职位信息\bin\Debug\02获得页面中所有的职位信息.exe
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net5th\02获得页面中所有的职位信息\bin\Debug\02获得页面中所有的职位信息.pdb
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net5th\02获得页面中所有的职位信息\obj\x86\Debug\02获得页面中所有的职位信息.exe
+F:\oldboy\aspcode\DotNetStudy\01 basics\0413.Net5th\02获得页面中所有的职位信息\obj\x86\Debug\02获得页面中所有的职位信息.pdb
