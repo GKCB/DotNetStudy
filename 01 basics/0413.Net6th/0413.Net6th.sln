@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11反射", "11反射\11反射.csproj", "{35EB0FC9-7FBB-40F1-9F1A-261578B13F46}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12反射的常用函数", "12反射的常用函数\12反射的常用函数.csproj", "{5B6229B3-73B7-43BF-BF59-B1484166812A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -155,6 +157,16 @@ Global
 		{35EB0FC9-7FBB-40F1-9F1A-261578B13F46}.Release|Mixed Platforms.Build.0 = Release|x86
 		{35EB0FC9-7FBB-40F1-9F1A-261578B13F46}.Release|x86.ActiveCfg = Release|x86
 		{35EB0FC9-7FBB-40F1-9F1A-261578B13F46}.Release|x86.Build.0 = Release|x86
+		{5B6229B3-73B7-43BF-BF59-B1484166812A}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{5B6229B3-73B7-43BF-BF59-B1484166812A}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{5B6229B3-73B7-43BF-BF59-B1484166812A}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{5B6229B3-73B7-43BF-BF59-B1484166812A}.Debug|x86.ActiveCfg = Debug|x86
+		{5B6229B3-73B7-43BF-BF59-B1484166812A}.Debug|x86.Build.0 = Debug|x86
+		{5B6229B3-73B7-43BF-BF59-B1484166812A}.Release|Any CPU.ActiveCfg = Release|x86
+		{5B6229B3-73B7-43BF-BF59-B1484166812A}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{5B6229B3-73B7-43BF-BF59-B1484166812A}.Release|Mixed Platforms.Build.0 = Release|x86
+		{5B6229B3-73B7-43BF-BF59-B1484166812A}.Release|x86.ActiveCfg = Release|x86
+		{5B6229B3-73B7-43BF-BF59-B1484166812A}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
